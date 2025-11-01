@@ -24,5 +24,5 @@ It also includes a Gradio interface for easy execution of the scraping process.
 
 ## Setup
 
-1.  **Open in Google Colab**: Open this notebook in Google Colab.
+1.  **Open in Google Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/YOUR_NOTEBOOK_NAME.ipynb) Open this notebook in Google Colab. **Remember to replace `YOUR_GITHUB_USERNAME`, `YOUR_REPO_NAME`, and `YOUR_NOTEBOOK_NAME.ipynb` with your actual GitHub details and notebook filename.**
 2.  **Install Dependencies**: Run the first code cell to install the required libraries:
