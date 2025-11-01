@@ -21,6 +21,7 @@ It also includes a Gradio interface for easy execution of the scraping process.
 *   Credentials for Google API authentication (handled by Google Colab's `auth.authenticate_user()`).
 *   A Google Sheet to store the workflow data.
 *   A Google Drive folder to store the workflow JSON files.
+> ⚙️ **Note**: This automation is compatible with [n8n workflows](https://n8n.io/workflows/), allowing seamless integration into modular automation pipelines.
 
 ## Setup
 
